@@ -624,7 +624,7 @@ def connectDB():
     config = {'host': 'localhost',
               'port': 3306, 'database': 'foodiepalace',
               'user': "root",  # Enter MySQL Server User
-              'password': "Karthik7196!",  # Enter MySQL Server Password
+              'password': password,  # Enter MySQL Server Password
               'charset': 'utf8',
               'use_unicode': True,
               'cursorclass': pymysql.cursors.DictCursor
