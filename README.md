@@ -17,8 +17,13 @@ reports, analytics using SQL queries to provide insights on restaurant performan
 
 
 ### Screenshot of website
+* Welcome Page
 ![alt Website Screenshot1 Welcome Page](https://github.com/karthikcd7/FoodiePalace-RestaurantManagementTool/blob/main/Screenshot1.png)
+
+* Login Page
 ![alt Website Screenshot2 Login Page](https://github.com/karthikcd7/FoodiePalace-RestaurantManagementTool/blob/main/Screenshot2.png)
+
+* Admin Page after Login
 ![alt Website Screenshot3 Admin LoggedIn Page](https://github.com/karthikcd7/FoodiePalace-RestaurantManagementTool/blob/main/Screenshot3.png)
 
 ### Technology 
