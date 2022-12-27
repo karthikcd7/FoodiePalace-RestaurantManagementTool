@@ -17,7 +17,9 @@ reports, analytics using SQL queries to provide insights on restaurant performan
 
 
 ### Screenshot of website
-![alt Website Screenshot](https://github.com/karthikcd7/FoodiePalace-RestaurantManagementTool/blob/main/Screenshot.png)
+![alt Website Screenshot1 Welcome Page](https://github.com/karthikcd7/FoodiePalace-RestaurantManagementTool/blob/main/Screenshot1.png)
+![alt Website Screenshot2 Login Page](https://github.com/karthikcd7/FoodiePalace-RestaurantManagementTool/blob/main/Screenshot2.png)
+![alt Website Screenshot3 Admin LoggedIn Page](https://github.com/karthikcd7/FoodiePalace-RestaurantManagementTool/blob/main/Screenshot3.png)
 
 ### Technology 
 * Python (*Flask*)
